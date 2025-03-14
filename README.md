@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! I'm Christopher Tiller
+
+Software engineer and sentient information sponge. I like making things that make everyone else's lives just a little bit easier.
 
 <!--
 **ctiller15/ctiller15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
